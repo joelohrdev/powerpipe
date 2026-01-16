@@ -1,6 +1,6 @@
-import { Button } from '@headlessui/react';
 import { useState } from 'react';
 
+import { Button } from '@/components/ui/button';
 import { BatFinish, BatLength } from '@/types/enums';
 
 export default function Product() {
@@ -120,6 +120,7 @@ export default function Product() {
                                             </div>
                                         </div>
                                         <Button
+                                            variant="outline"
                                             className="px-10"
                                         >
                                             Checkout

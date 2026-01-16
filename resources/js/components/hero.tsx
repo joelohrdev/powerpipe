@@ -45,7 +45,7 @@ export default function Hero() {
                                 <ChevronRight className="transition-transform group-hover:translate-x-1" />
                             </Button>
                             <Button
-                                variant="outline"
+                                variant="secondary"
                                 onClick={() =>
                                     document
                                         .getElementById('film')

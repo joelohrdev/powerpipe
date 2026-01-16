@@ -19,7 +19,7 @@ export default function Video() {
                     <div className="group relative mx-auto aspect-video w-full max-w-5xl overflow-hidden rounded-[2rem] border border-white/5 shadow-2xl shadow-blue-500/10">
                         <div className="absolute inset-0 flex items-center justify-center bg-zinc-900">
                             <img
-                                src="https://images.unsplash.com/photo-1540747913346-19e3adca174f?q=80&w=2000&auto=format&fit=crop"
+                                src="https://images.unsplash.com/photo-1508344928928-7165b67de128?w=900&auto=format&fit=crop"
                                 className="absolute inset-0 h-full w-full object-cover opacity-40 transition-transform duration-1000 group-hover:scale-105"
                                 alt="Video Thumbnail"
                             />

@@ -6,17 +6,17 @@ export default function Gallery() {
             size: 'col-span-1',
         },
         {
-            url: 'https://images.unsplash.com/photo-1516733725897-1aa73b87c8e8?q=80&w=1000&auto=format&fit=crop',
+            url: 'https://images.unsplash.com/flagged/photo-1571358607210-1691cb0ea07c?q=80&w=2070&auto=format&fit=crop',
             title: 'Precision Impact',
             size: 'md:col-span-2',
         },
         {
-            url: 'https://images.unsplash.com/photo-1593341646782-e0b495cff86d?q=80&w=1000&auto=format&fit=crop',
+            url: 'https://images.unsplash.com/photo-1624375664562-fff61869fe8f?w=900&auto=format&fit=crop',
             title: 'Max Velocity',
             size: 'md:col-span-2',
         },
         {
-            url: 'https://images.unsplash.com/photo-1544049103-68f44816c7a3?q=80&w=1000&auto=format&fit=crop',
+            url: 'https://images.unsplash.com/photo-1529768167801-9173d94c2a42?q=80&w=2070&auto=format&fit=crop',
             title: 'Drill Focus',
             size: 'col-span-1',
         },
@@ -38,11 +38,6 @@ export default function Gallery() {
                                 See how elite athletes use the Apex Pro to
                                 sharpen their mechanics and dominate the box.
                             </p>
-                        </div>
-                        <div className="flex gap-4">
-                            <div className="flex h-14 w-14 items-center justify-center rounded-full border border-white/10 text-gray-500">
-                                01 / 04
-                            </div>
                         </div>
                     </div>
 
